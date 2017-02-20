@@ -20,6 +20,7 @@ for line in sys.stdin:
 
     	thisItem, thisSale = data
 
+	# Comment out below line if you want total sales across all the categories.
 	if thisItem == 'Toys' or thisItem == 'Consumer Electronics':
 		# Skip all the data whose category is not Toys or Consumer Electronic.
 
