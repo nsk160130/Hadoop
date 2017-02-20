@@ -2,4 +2,4 @@ The data file contains the data for ledger of a retailer across the United State
 
 The data is in follwing format (tab delimited):
 
-date  time  store item_category cost payment_method
+Date\tTime\tStore\tItem_category\tCost\tPayment_method
